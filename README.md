@@ -15,8 +15,6 @@
   - An extra "Highlight All" option allows you to highlight all matches.
   - "Clear Search" removes all highlighting and resets the search field.
 - **Editable Views:** All views (HEX, ASCII, and BIN) are editable.
-- **Customizable Appearance:** The application uses a monospaced font (Courier New) for clean alignment and displays highlighted matches in a light gray color (#999999).
-- **Cross-Platform:** Built with Qt, QBinEditor can run on various Linux distributions and other platforms supported by Qt.
 
 ## Requirements
 
