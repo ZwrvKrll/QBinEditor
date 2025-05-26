@@ -33,13 +33,7 @@
    ```bash
   sudo dpkg -i qbineditor.deb
   ```
-## For Arch-based distros
-
-Open a terminal and run:
-```bash
-yay -S qbineditor
-```
-
+   
 ## For other distros
 
 - Download **qbineditor** file from **Releases**
