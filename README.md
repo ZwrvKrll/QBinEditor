@@ -25,6 +25,29 @@
   - libQt5Gui
   - libQt5Core
 
+## For Debian-based distros
+
+- Download **.deb** package from **Releases**
+- Open a terminal and navigate to the package directory. Then run:
+  ```bash
+  sudo dpkg -i qbineditor.deb
+  ```
+## For Arch-based distros
+
+Open a terminal and run:
+```bash
+yay -S qbineditor
+```
+
+## For other distros
+
+- Download **qbineditor** file from **Releases**
+- (optional) Transfer this file to home directory (/home/<user>/qbineditor)
+- Open a terminal and run:
+  ```bash
+  ./qbineditor
+  ```
+
 ## Building
 
 1. **Clone or Download the Source Code**
