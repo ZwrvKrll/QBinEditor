@@ -29,7 +29,8 @@
 
 - Download **.deb** package from **Releases**
 - Open a terminal and navigate to the package directory. Then run:
-  ```bash
+
+   ```bash
   sudo dpkg -i qbineditor.deb
   ```
 ## For Arch-based distros
@@ -44,6 +45,7 @@ yay -S qbineditor
 - Download **qbineditor** file from **Releases**
 - (optional) Transfer this file to home directory (/home/<user>/qbineditor)
 - Open a terminal and run:
+
   ```bash
   ./qbineditor
   ```
