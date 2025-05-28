@@ -46,13 +46,9 @@
 
 ## Building
 
-1. **Clone or Download the Source Code**
+1. Clone the repository or download the source as a ZIP file and extract it.
 
-   Clone the repository or download the source as a ZIP file and extract it.
-
-2. **Build with qmake and make**
-
-   Open a terminal and navigate to the source directory. Then run:
+2. Open a terminal and navigate to the source directory. Then run:
 
    ```bash
    qmake
