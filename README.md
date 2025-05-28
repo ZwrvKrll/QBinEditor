@@ -27,18 +27,18 @@
 
 ## For Debian-based distros
 
-- Download **.deb** package from **Releases**
-- Open a terminal and navigate to the package directory. Then run:
+1. Download **.deb** package from **Releases**
+2. Open a terminal and navigate to the package directory. Then run:
 
-   ```bash
+  ```bash
   sudo dpkg -i qbineditor.deb
   ```
    
 ## For other distros
 
-- Download **qbineditor** file from **Releases**
-- (optional) Transfer this file to home directory (/home/<user>/qbineditor)
-- Open a terminal and run:
+1. Download **qbineditor** file from **Releases**
+2. (optional) Transfer this file to home directory (/home/<user>/qbineditor)
+3. Open a terminal and run:
 
   ```bash
   ./qbineditor
