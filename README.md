@@ -1,6 +1,6 @@
 # QBinEditor
 
-**QBinEditor** is a binary file editor written in Qt. It provides a graphical interface for searching, viewing, and editing binary files in three different representations: HEX, ASCII, and BIN.
+**QBinEditor** is a binary file editor written in Qt. It provides a graphical interface for searching, viewing, and editing binary files in three different representations: HEX, ASCII, and BIN. It provides a convenient graphical interface with an integrated file search.
 
 ## Features
 
